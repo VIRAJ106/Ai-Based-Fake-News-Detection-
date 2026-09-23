@@ -1,6 +1,6 @@
 # Project-1
                   Fake news Detection (Chrome Extention)
-                          //No need of manual search for each news/ inforamtion you see online
+                          //No need of manual search for each news/inforamtion you see online
                            * this extention consist of a open ai api and  google fact checking api
                            * the extention popup will appear as you click on the extention
                            * there will be 2 modes, first one is the text selection mode and second will be the manual entry of the text.
