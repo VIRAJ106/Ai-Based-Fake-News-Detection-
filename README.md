@@ -8,4 +8,4 @@
                            * in selector mode the text will be highlighted as green or red bsed on the news is true or false respectively.
                            * text selector modes helps you to track your online information consumtion is really true or not
                            * user just have to select the text which he wants to check for validation and the text will be highlighted within 2-3 seconds.
-                           * This project savees time and efforts as in today we dont go to google to search every information we see online.
+                           * This project savees time and efforts as in today we dont go to google to search every information we see online
